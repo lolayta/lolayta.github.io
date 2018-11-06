@@ -1,0 +1,8 @@
+p:before {
+	content:"伪元素before";
+	display: block;
+}
+p {
+	font-family:"微软雅黑";
+
+}
